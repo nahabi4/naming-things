@@ -8,7 +8,7 @@
 - Don’t hesitate to use longer names -: We use short words even if it doesn’t provide full insight about the code which is a bad thing to do.
 - Prepare yourself to make a mindset that you won’t be writing more comments now, your naming will provide an insight into the process.
 [https://medium.com/hackernoon/naming-the-things-in-programming-230590016f00]
-
+----
 group  
 container  
 umbrella  
