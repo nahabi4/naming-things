@@ -29,4 +29,6 @@ item
 bit  
 piece  
 
+compensation  (going back)  
+
 
